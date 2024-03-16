@@ -1,0 +1,38 @@
+form
+{
+    text-align: center;
+    margin: auto;
+    
+}
+h1{
+    text-align: center;
+    color: beige;
+    padding: 20px;
+    margin: 20px;
+}
+body
+{
+    background-color:beige;
+}
+.button
+{
+background-color:rgb(115, 115, 248);
+color:black;
+
+}
+input{
+   padding: 5px;
+   padding-left: 40px;
+   padding-right: 40px;
+   margin: 5px;
+    border-radius: 10px;
+}
+blockquote {
+    background-color: rgb(194, 194, 38);
+    padding: 20px;
+    box-shadow:
+      inset 0 -3em 3em rgba(221, 62, 14, 0.3),
+      0 0 0 2px white,
+      0.3em 0.3em 1em rgba(242, 3, 3, 0.6);
+  }
+  
